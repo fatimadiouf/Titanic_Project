@@ -1,4 +1,4 @@
-# 🚢 Titanic - Analyse Exploratoire de Données (EDA) & Prétraitement
+#  Titanic - Analyse Exploratoire de Données (EDA) & Prétraitement
 
 [![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
@@ -10,7 +10,7 @@ Ce projet réalise une **Analyse Exploratoire des Données (EDA)** approfondie e
 
 ---
 
-## 🎯 Objectifs du Projet
+##  Objectifs du Projet
 
 1. **Exploration & Compréhension des Données** :
    - Analyse structurelle des variables quantitatives (`Age`, `Fare`, `SibSp`, `Parch`) et qualitatives (`Pclass`, `Sex`, `Embarked`, `Survived`).
@@ -27,7 +27,7 @@ Ce projet réalise une **Analyse Exploratoire des Données (EDA)** approfondie e
 
 ---
 
-## 📁 Structure du Projet
+##  Structure du Projet
 
 ```text
 ├── Titanic.csv                # Dataset original du Titanic
@@ -40,7 +40,7 @@ Ce projet réalise une **Analyse Exploratoire des Données (EDA)** approfondie e
 
 ---
 
-## 🛠️ Technologies & Bibliothèques Utilisées
+##  Technologies & Bibliothèques Utilisées
 
 - **Langage** : Python 3
 - **Manipulation de Données** : `pandas`, `numpy`
@@ -49,7 +49,7 @@ Ce projet réalise une **Analyse Exploratoire des Données (EDA)** approfondie e
 
 ---
 
-## 🚀 Installation & Exécution
+##  Installation & Exécution
 
 ### 1. Cloner le dépôt
 ```bash
@@ -76,6 +76,6 @@ python titanic_analysis.py
 
 ---
 
-## 👩‍💻 Auteur
+##  Auteur
 
 * **Fatima DIOUF** - [GitHub @fatimadiouf](https://github.com/fatimadiouf)
